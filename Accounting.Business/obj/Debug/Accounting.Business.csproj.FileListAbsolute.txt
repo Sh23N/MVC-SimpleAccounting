@@ -1,0 +1,14 @@
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Acconting.ViewModles.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Acconting.ViewModles.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\yas\Desktop\C#Pros\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete

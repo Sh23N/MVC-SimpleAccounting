@@ -1,0 +1,6 @@
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\bin\Debug\Acconting.ViewModles.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\obj\Debug\Acconting.ViewModles.csproj.AssemblyReference.cache
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\obj\Debug\Acconting.ViewModles.csproj.CoreCompileInputs.cache
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\obj\Debug\Acconting.ViewModles.dll
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\obj\Debug\Acconting.ViewModles.pdb
+C:\Users\yas\Desktop\C#Pros\Accounting\Acconting.ViewModles\obj\Debug\Acconting.ViewModles.csproj.CopyComplete
